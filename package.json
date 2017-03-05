@@ -20,7 +20,7 @@
     "STT",
     "Raspberry Pi"
   ],
-  "author": "Victor Dibia",
+  "author": "Sebastian Pech",
   "dependencies": {
     "mic": "^2.1.1",
     "watson-developer-cloud": "^2.0.0"
